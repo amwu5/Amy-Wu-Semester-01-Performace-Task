@@ -8,6 +8,7 @@ radius = 144.0
 height = 304.0
 
 [node name="Player" type="Area2D"]
+position = Vector2(952, 336)
 script = ExtResource("1_vsfmj")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
